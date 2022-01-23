@@ -1,5 +1,5 @@
 # DiDate
-Digital Appointment App
+Digital Appointment App with React Native
 
 DiDate is a digital appointment app which connects business and user for appointments/reservations.
 
